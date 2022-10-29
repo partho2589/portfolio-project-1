@@ -1,0 +1,61 @@
+body{font-family: 'Poppins', sans-serif;
+    border: 0;}
+    .top-part{display: flex;
+    }
+    .hafe-width{
+        width: 50%;}
+    
+    .hafe-width img{
+        width: 70%;}
+    h1{
+        font-size: 50px;}    
+    .mission-color{color: orange;}    
+    .link{
+        background-color: rgb(209, 171, 73);
+        padding: 5px 20px;
+        text-decoration: none;
+        border-radius: 5px;
+    }  
+    .border{
+        border-left:4px solid;
+        border-image-slice: 1;
+        border-color: rgb(37, 180, 49);
+    }
+    .three{
+        display: flex;
+        padding: 7px;}
+    .madel-part{
+        display: flex;}
+    #my{text-align: center;}
+    .text-color{ color: rgb(26, 123, 168);}
+    .year{color: rgb(37, 180, 49);}
+    .madel-part img{
+        width: 80px;}
+    .secent-all-box{
+        box-shadow: 10px 10px 20 rgb(255, 249, 249);
+        margin-left: 2%;
+        margin-right: 2%;
+        padding: 2%;}
+        #goals{
+            background-color: rgb(221, 194, 253);
+            border-radius: 10px;}
+    #vission{
+        background-color: rgb(252, 217, 171);
+        border-radius: 10px;}   
+        .third-part{ display: flex;} 
+        .fourth-part{
+            display: flex;
+        }
+        footer{background-color: black;
+        text-align: center;}
+        .colore-m{color: white;}
+        .color-y{color: cyan;}
+        .hard-color{color: white;
+        }
+        .last-para{
+            display: flex;
+        }
+       #struggle{
+           box-shadow: 10px 10px 10px royalblue;
+           border-radius: 10px;
+       }
